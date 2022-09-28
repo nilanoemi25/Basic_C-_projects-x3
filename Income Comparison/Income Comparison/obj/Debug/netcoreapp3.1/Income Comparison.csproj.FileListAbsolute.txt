@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\obj\Debug\netcoreapp3.1\Income Comparison.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\obj\Debug\netcoreapp3.1\Income Comparison.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\obj\Debug\netcoreapp3.1\Income Comparison.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\obj\Debug\netcoreapp3.1\Income Comparison.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\obj\Debug\netcoreapp3.1\Income Comparison.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\bin\Debug\netcoreapp3.1\Income Comparison.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\bin\Debug\netcoreapp3.1\Income Comparison.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\bin\Debug\netcoreapp3.1\Income Comparison.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\bin\Debug\netcoreapp3.1\Income Comparison.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\bin\Debug\netcoreapp3.1\Income Comparison.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\bin\Debug\netcoreapp3.1\Income Comparison.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\obj\Debug\netcoreapp3.1\Income Comparison.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\obj\Debug\netcoreapp3.1\Income Comparison.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Income Comparison\Income Comparison\obj\Debug\netcoreapp3.1\Income Comparison.genruntimeconfig.cache
