@@ -29,8 +29,10 @@ namespace Income_Comparison
             int total2 = hourlyrate02 * perweek02 * 52;
             Console.WriteLine("Annual Salary of Person 2: \n" + total2);
 
-            Console.ReadLine();
-
+            Console.WriteLine("Person 1 makes more than Person 2 :");
+            bool comparison = total > total2; 
+            Console.WriteLine(comparison);
+            Console.ReadLine(); 
         }
     }
 }
