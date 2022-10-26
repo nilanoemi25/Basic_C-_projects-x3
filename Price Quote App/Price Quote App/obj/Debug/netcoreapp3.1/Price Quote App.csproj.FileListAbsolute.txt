@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\bin\Debug\netcoreapp3.1\Price Quote App.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\bin\Debug\netcoreapp3.1\Price Quote App.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\bin\Debug\netcoreapp3.1\Price Quote App.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\bin\Debug\netcoreapp3.1\Price Quote App.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\bin\Debug\netcoreapp3.1\Price Quote App.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\bin\Debug\netcoreapp3.1\Price Quote App.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\obj\Debug\netcoreapp3.1\Price Quote App.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\obj\Debug\netcoreapp3.1\Price Quote App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\obj\Debug\netcoreapp3.1\Price Quote App.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\obj\Debug\netcoreapp3.1\Price Quote App.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\obj\Debug\netcoreapp3.1\Price Quote App.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\obj\Debug\netcoreapp3.1\Price Quote App.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\obj\Debug\netcoreapp3.1\Price Quote App.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Price Quote App\Price Quote App\obj\Debug\netcoreapp3.1\Price Quote App.genruntimeconfig.cache
