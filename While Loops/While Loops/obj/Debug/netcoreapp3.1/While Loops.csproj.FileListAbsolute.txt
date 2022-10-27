@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.genruntimeconfig.cache
