@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\bin\Debug\netcoreapp3.1\array and lists.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\bin\Debug\netcoreapp3.1\array and lists.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\bin\Debug\netcoreapp3.1\array and lists.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\bin\Debug\netcoreapp3.1\array and lists.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\bin\Debug\netcoreapp3.1\array and lists.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\bin\Debug\netcoreapp3.1\array and lists.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\obj\Debug\netcoreapp3.1\array and lists.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\obj\Debug\netcoreapp3.1\array and lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\obj\Debug\netcoreapp3.1\array and lists.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\obj\Debug\netcoreapp3.1\array and lists.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\obj\Debug\netcoreapp3.1\array and lists.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\obj\Debug\netcoreapp3.1\array and lists.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\obj\Debug\netcoreapp3.1\array and lists.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\array and lists\array and lists\obj\Debug\netcoreapp3.1\array and lists.genruntimeconfig.cache
