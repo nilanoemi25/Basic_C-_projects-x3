@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\TwentyOne Game.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\TwentyOne Game.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\TwentyOne Game.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\TwentyOne Game.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\TwentyOne Game.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\TwentyOne Game.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\obj\Debug\netcoreapp3.1\TwentyOne Game.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\obj\Debug\netcoreapp3.1\TwentyOne Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\obj\Debug\netcoreapp3.1\TwentyOne Game.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\obj\Debug\netcoreapp3.1\TwentyOne Game.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\obj\Debug\netcoreapp3.1\TwentyOne Game.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\obj\Debug\netcoreapp3.1\TwentyOne Game.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\obj\Debug\netcoreapp3.1\TwentyOne Game.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\obj\Debug\netcoreapp3.1\TwentyOne Game.genruntimeconfig.cache
