@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\bin\Debug\netcoreapp3.1\Inheritence Assignment.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\bin\Debug\netcoreapp3.1\Inheritence Assignment.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\bin\Debug\netcoreapp3.1\Inheritence Assignment.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\bin\Debug\netcoreapp3.1\Inheritence Assignment.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\bin\Debug\netcoreapp3.1\Inheritence Assignment.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\bin\Debug\netcoreapp3.1\Inheritence Assignment.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\obj\Debug\netcoreapp3.1\Inheritence Assignment.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\obj\Debug\netcoreapp3.1\Inheritence Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\obj\Debug\netcoreapp3.1\Inheritence Assignment.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\obj\Debug\netcoreapp3.1\Inheritence Assignment.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\obj\Debug\netcoreapp3.1\Inheritence Assignment.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\obj\Debug\netcoreapp3.1\Inheritence Assignment.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\obj\Debug\netcoreapp3.1\Inheritence Assignment.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Inheritence Assignment\Inheritence Assignment\obj\Debug\netcoreapp3.1\Inheritence Assignment.genruntimeconfig.cache
