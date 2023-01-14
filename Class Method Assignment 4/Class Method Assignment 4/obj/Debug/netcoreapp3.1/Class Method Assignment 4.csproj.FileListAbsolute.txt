@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\bin\Debug\netcoreapp3.1\Class Method Assignment 4.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\bin\Debug\netcoreapp3.1\Class Method Assignment 4.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\bin\Debug\netcoreapp3.1\Class Method Assignment 4.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\bin\Debug\netcoreapp3.1\Class Method Assignment 4.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\bin\Debug\netcoreapp3.1\Class Method Assignment 4.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\bin\Debug\netcoreapp3.1\Class Method Assignment 4.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\obj\Debug\netcoreapp3.1\Class Method Assignment 4.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\obj\Debug\netcoreapp3.1\Class Method Assignment 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\obj\Debug\netcoreapp3.1\Class Method Assignment 4.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\obj\Debug\netcoreapp3.1\Class Method Assignment 4.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\obj\Debug\netcoreapp3.1\Class Method Assignment 4.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\obj\Debug\netcoreapp3.1\Class Method Assignment 4.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\obj\Debug\netcoreapp3.1\Class Method Assignment 4.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Class Method Assignment 4\Class Method Assignment 4\obj\Debug\netcoreapp3.1\Class Method Assignment 4.genruntimeconfig.cache
