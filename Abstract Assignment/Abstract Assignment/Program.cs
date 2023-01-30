@@ -11,6 +11,10 @@ namespace Abstract_Assignment
             employee.Lname = "Student"; 
             employee.SayName();
 
+        
+
+
+
             Console.ReadLine();
 
             IQuittable employeemorph = new Employee();
