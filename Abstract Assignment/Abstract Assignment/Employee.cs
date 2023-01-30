@@ -15,7 +15,7 @@ namespace Abstract_Assignment
 
         public void Quit ()
         {
-            throw NotImplementedException(); 
+            throw new NotImplementedException(); 
         }
 
         public static bool operator== (Employee emp1, Employee emp2)
