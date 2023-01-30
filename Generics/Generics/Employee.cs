@@ -8,10 +8,10 @@ namespace Generics
     {
         public List<T> Things { get; set; }
 
-        public void PrintMethod(List<T> Print)
-        {
-            Console.WriteLine(Print); 
-        }
+        //public void printmethod(List<T> print)
+        //{
+        //    Console.WriteLine(print); 
+        //}
 
     }
 }
