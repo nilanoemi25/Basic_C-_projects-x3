@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\bin\Debug\netcoreapp3.1\Abstract Assignment.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\bin\Debug\netcoreapp3.1\Abstract Assignment.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\bin\Debug\netcoreapp3.1\Abstract Assignment.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\bin\Debug\netcoreapp3.1\Abstract Assignment.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\bin\Debug\netcoreapp3.1\Abstract Assignment.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\bin\Debug\netcoreapp3.1\Abstract Assignment.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\obj\Debug\netcoreapp3.1\Abstract Assignment.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\obj\Debug\netcoreapp3.1\Abstract Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\obj\Debug\netcoreapp3.1\Abstract Assignment.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\obj\Debug\netcoreapp3.1\Abstract Assignment.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\obj\Debug\netcoreapp3.1\Abstract Assignment.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\obj\Debug\netcoreapp3.1\Abstract Assignment.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\obj\Debug\netcoreapp3.1\Abstract Assignment.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Abstract Assignment\Abstract Assignment\obj\Debug\netcoreapp3.1\Abstract Assignment.genruntimeconfig.cache
