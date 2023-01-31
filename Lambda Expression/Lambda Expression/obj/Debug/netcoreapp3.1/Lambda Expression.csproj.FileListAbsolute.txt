@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.genruntimeconfig.cache
