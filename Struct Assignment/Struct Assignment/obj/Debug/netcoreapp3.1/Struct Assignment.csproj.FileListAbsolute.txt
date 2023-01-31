@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\bin\Debug\netcoreapp3.1\Struct Assignment.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\bin\Debug\netcoreapp3.1\Struct Assignment.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\bin\Debug\netcoreapp3.1\Struct Assignment.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\bin\Debug\netcoreapp3.1\Struct Assignment.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\bin\Debug\netcoreapp3.1\Struct Assignment.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\bin\Debug\netcoreapp3.1\Struct Assignment.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\obj\Debug\netcoreapp3.1\Struct Assignment.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\obj\Debug\netcoreapp3.1\Struct Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\obj\Debug\netcoreapp3.1\Struct Assignment.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\obj\Debug\netcoreapp3.1\Struct Assignment.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\obj\Debug\netcoreapp3.1\Struct Assignment.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\obj\Debug\netcoreapp3.1\Struct Assignment.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\obj\Debug\netcoreapp3.1\Struct Assignment.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Struct Assignment\Struct Assignment\obj\Debug\netcoreapp3.1\Struct Assignment.genruntimeconfig.cache
