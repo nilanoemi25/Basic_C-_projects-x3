@@ -18,7 +18,7 @@ namespace Abstract_Assignment
             Console.ReadLine();
 
             IQuittable employeemorph = new Employee();
-            employee.Quit();
+            employeemorph.Quit();
 
             Console.ReadLine(); 
         }
