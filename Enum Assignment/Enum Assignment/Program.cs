@@ -6,10 +6,12 @@ namespace Enum_Assignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi user, what day is today?");
+            Console.WriteLine("Hi user, what day is today? Choose from 1-7 ");
             string day = Console.ReadLine();
 
-            
+            DaysoftheWeek daysoftheweek = (DaysoftheWeek)Convert.ToInt32(day);  
+
+            Console.WriteLine(daysoftheweek); 
 
         }
     }
