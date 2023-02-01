@@ -89,12 +89,14 @@ namespace Lambda_Expression
 
 
             // Lambada Expression Version 
-            int lame = myList.Count(x => x.Fname == "Joe");
-            Console.WriteLine("The number of Joe's we have: " + lame);
+
+            List<Employee> lame = myList.Where(x => x.Fname == "Joe").ToList(); 
+
+            Console.WriteLine(lame);
 
             // List of employees Id greater than 5 
 
-            //List<Employee> lamelist = myList.Count(y => y.Id >= 5); //Getting an error: CS0029
+            List<Employee> lamelist = myList.Where(y => y.Id >= 5).ToList(); 
 
         }
 
