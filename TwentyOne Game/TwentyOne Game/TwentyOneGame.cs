@@ -63,13 +63,12 @@ namespace TwentyOne_Game
                         foreach (KeyValuePair<Player, int> entry in Bets)
                         {
                             Dealer.Balance += entry.Value;
-                            //return;
                         }
                         
                     } 
                     
                     
-                } return; // issue here is that it does not go to line 76 next. 
+                } //return; // issue here is that it does not go to line 76 next. 
 
             } 
 
