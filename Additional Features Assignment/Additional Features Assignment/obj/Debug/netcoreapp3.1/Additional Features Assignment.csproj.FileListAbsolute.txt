@@ -1,0 +1,14 @@
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.exe
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.deps.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.runtimeconfig.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.runtimeconfig.dev.json
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.csproj.AssemblyReference.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.AssemblyInfoInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.AssemblyInfo.cs
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.dll
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.pdb
+D:\Nila-PC\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\Additional Features Assignment\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.genruntimeconfig.cache
