@@ -41,6 +41,7 @@ namespace TwentyOne_Game
                 {
                     Console.Write("{0}: ", player.Name);
                     Dealer.Deal(player.Hand);
+
                     if (i == 1)
                     {
                         bool BlackJack = TwentyOneRules.CheckforBlackJack(player.Hand);
@@ -63,12 +64,13 @@ namespace TwentyOne_Game
                         foreach (KeyValuePair<Player, int> entry in Bets)
                         {
                             Dealer.Balance += entry.Value;
+                            return; 
                         }
                         
                     } 
                     
                     
-                } return; // issue here is that it does not go to line 75 next. 
+                } //return; // issue here is that it does not go to line 75 next. 
 
             } 
 
@@ -83,7 +85,7 @@ namespace TwentyOne_Game
                     }
 
 
-                } 
+                
                 Console.WriteLine("\n\nHit or stay? ");
                 string answer = Console.ReadLine().ToLower();
                 if (answer == "stay")
@@ -101,16 +103,18 @@ namespace TwentyOne_Game
                     Dealer.Balance += Bets[player];
                     Console.WriteLine("{0} Busted! You lose your bet of {1}. Your balance is now {2}.", player.Name, Bets[player], player.Balance);
                     Console.WriteLine("Do you want to play again? ");
-                    answer = Console.ReadLine().ToLower(); 
-                    if (answer == "yes"|| answer == "yeah")
-                    {
-                        player.isActivelyPlaying = true;
-                        return;
-                    }
-                    else
-                    {
-                        player.isActivelyPlaying = false;
-                        return; 
+                    answer = Console.ReadLine().ToLower();
+                        if (answer == "yes" || answer == "yeah")
+                        {
+                            player.isActivelyPlaying = true;
+                            return;
+                        }
+                        else
+                        {
+                            player.isActivelyPlaying = false;
+                            return;
+                        } 
+                        
                     }
                 }
             }

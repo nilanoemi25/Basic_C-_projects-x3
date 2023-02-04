@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\Nila\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\TwentyOne Game\\TwentyOne Game.csproj",
-      "projectName": "TwentyOne Game",
-      "projectPath": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\TwentyOne Game\\TwentyOne Game.csproj",
+      "projectUniqueName": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\Lib21\\Lib21.csproj",
+      "projectName": "Lib21",
+      "projectPath": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\Lib21\\Lib21.csproj",
       "packagesPath": "C:\\Users\\Nila\\.nuget\\packages\\",
-      "outputPath": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\TwentyOne Game\\obj\\",
+      "outputPath": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\Lib21\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nila\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
