@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "TwentyOne Game/1.0.0": {
-        "dependencies": {
-          "Casino0": "1.0.0"
-        },
-        "runtime": {
-          "TwentyOne Game.dll": {}
-        }
-      },
       "Casino0/1.0.0": {
         "runtime": {
           "Casino0.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "TwentyOne Game/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Casino0/1.0.0": {
       "type": "project",
       "serviceable": false,

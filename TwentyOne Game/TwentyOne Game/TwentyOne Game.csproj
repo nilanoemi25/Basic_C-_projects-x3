@@ -6,4 +6,8 @@
     <RootNamespace>TwentyOne_Game</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Casino0\Casino0.csproj" />
+  </ItemGroup>
+
 </Project>

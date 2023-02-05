@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks; 
 
-namespace TwentyOne_Game
+namespace Casino
 {
     public class Player 
     {
@@ -18,6 +18,7 @@ namespace TwentyOne_Game
         public List<Card> Hand { get { return _hand; } set { _hand = value; } }
         public int Balance { get; set; }
         public string Name { get; set; }
+        public Guid Id { get; set;  }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set;  }
 

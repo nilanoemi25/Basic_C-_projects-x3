@@ -4,9 +4,9 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TwentyOne_Game
+namespace Casino 
 {
-    public class Card
+    public struct Card
     {
       
         public Suit Suit { get; set; }
@@ -14,7 +14,7 @@ namespace TwentyOne_Game
 
         public override string ToString()
         {
-            return String.Format("{0} of {1}", Face, Suit); 
+            return string.Format("{0} of {1}", Face, Suit); 
         }
 
     }

@@ -4,7 +4,7 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TwentyOne_Game
+namespace Casino.Interfaces
 {
     interface IWalkAway
     {

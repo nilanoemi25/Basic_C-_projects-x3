@@ -1,33 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Casino0/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Casino0.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Casino0.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Casino0/1.0.0": {
-      "type": "project",
-      "path": "../Casino0/Casino0.csproj",
-      "msbuildProject": "../Casino0/Casino0.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Casino0 >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Nila\\.nuget\\packages\\": {}
@@ -35,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\TwentyOne Game\\TwentyOne Game.csproj",
-      "projectName": "TwentyOne Game",
-      "projectPath": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\TwentyOne Game\\TwentyOne Game.csproj",
+      "projectUniqueName": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\Casino0\\Casino0.csproj",
+      "projectName": "Casino0",
+      "projectPath": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\Casino0\\Casino0.csproj",
       "packagesPath": "C:\\Users\\Nila\\.nuget\\packages\\",
-      "outputPath": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\TwentyOne Game\\obj\\",
+      "outputPath": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\Casino0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nila\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,11 +33,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\Casino0\\Casino0.csproj": {
-              "projectPath": "D:\\Nila-PC\\Pictures\\Pitman Training\\Basic C# Pr\\Basic_C-_projects-x3\\TwentyOne Game\\Casino0\\Casino0.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -84,6 +58,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"

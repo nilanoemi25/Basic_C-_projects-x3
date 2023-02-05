@@ -1,0 +1,9 @@
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\Casino0\bin\Debug\netcoreapp3.1\Casino0.deps.json
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\Casino0\bin\Debug\netcoreapp3.1\Casino0.dll
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\Casino0\bin\Debug\netcoreapp3.1\Casino0.pdb
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\Casino0\obj\Debug\netcoreapp3.1\Casino0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\Casino0\obj\Debug\netcoreapp3.1\Casino0.AssemblyInfoInputs.cache
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\Casino0\obj\Debug\netcoreapp3.1\Casino0.AssemblyInfo.cs
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\Casino0\obj\Debug\netcoreapp3.1\Casino0.csproj.CoreCompileInputs.cache
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\Casino0\obj\Debug\netcoreapp3.1\Casino0.dll
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\Casino0\obj\Debug\netcoreapp3.1\Casino0.pdb

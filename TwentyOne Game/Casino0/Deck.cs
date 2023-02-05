@@ -4,7 +4,7 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TwentyOne_Game
+namespace Casino
 {
     public class Deck
     {
@@ -14,7 +14,7 @@ namespace TwentyOne_Game
            
             for (int i= 0;  i<13; i++)
             {
-                for( int j=0; i<4; i++)
+                for( int j=0; j<4; j++)
                 {
                     Card card = new Card();
                     card.Face = (Face)i;
