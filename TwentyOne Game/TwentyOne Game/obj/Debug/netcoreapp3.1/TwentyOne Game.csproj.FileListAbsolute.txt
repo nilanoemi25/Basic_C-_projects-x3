@@ -29,3 +29,9 @@ D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne G
 D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\Casino0.dll
 D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\Casino0.pdb
 D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\obj\Debug\netcoreapp3.1\TwentyOne Game.csproj.CopyComplete
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nila-PC\Pictures\Pitman Training\Basic C# Pr\Basic_C-_projects-x3\TwentyOne Game\TwentyOne Game\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
