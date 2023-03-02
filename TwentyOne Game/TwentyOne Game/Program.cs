@@ -95,9 +95,10 @@ namespace TwentyOne_Game
 
         private static void UpdateDBwithExceptions(Exception ex)
         {
-            string ConnectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=TwentyOne ;
-                Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;
-                ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            string ConnectionString = @"Data Source = (localdb)\MSSQLLocalDB; Initial Catalog = TwentyOne ; 
+                Integrated Security = True; Connect Timeout = 30; Encrypt = False; 
+                TrustServerCertificate = False; ApplicationIntent = ReadWrite;
+                MultiSubnetFailover = False"; 
 
             string QueryString = @"INSERT INTO Exception(ExceptionType, ExceptionMessage, TimeStamp) VALUES (@ExceptionType,
               @ExceptionMessage, @TimeStamp)"; 
@@ -122,9 +123,10 @@ namespace TwentyOne_Game
         }
         private static List<ExceptionEntity> ReadExceptions()
         {
-            string ConnectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=TwentyOne ;
-                Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;
-                ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            string ConnectionString = @"Data Source = (localdb)\MSSQLLocalDB; Initial Catalog = TwentyOne ; 
+                Integrated Security = True; Connect Timeout = 30; Encrypt = False; 
+                TrustServerCertificate = False; ApplicationIntent = ReadWrite;
+                MultiSubnetFailover = False";
 
             string queryString = @"Select Id, ExceptionType, ExceptionMessage, TimeStamp from Exceptions";
 
@@ -136,6 +138,7 @@ namespace TwentyOne_Game
 
                 connection.Open();
 
+                
                 SqlDataReader reader = command.ExecuteReader();
 
                 while (reader.Read())
